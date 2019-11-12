@@ -5,7 +5,7 @@ Medical image registration related books, tutorials, papers, datasets, toolboxes
 
 Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm.**](https://vdisk.weibo.com/s/FQyto0RT-heb) 
 
-PartⅡ introduces the most basic network and architecture of medical registration algorithms**(Chinese Version)**.
+PartⅡ introduces the most basic network and architecture of medical registration algorithms **Chinese Version**.
 
 # 2. Tutorials & Workshops
 
