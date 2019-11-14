@@ -3,15 +3,15 @@ Medical image registration related books, tutorials, papers, datasets, toolboxes
 
 # 1. Books
 
-Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm.**](https://vdisk.weibo.com/s/FQyto0RT-heb) 
-
-PartⅡ introduces the most basic network and architecture of medical registration algorithms **Chinese Version**.
+Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm. 医学图像分割与配准(ITK实现分册)**](https://vdisk.weibo.com/s/FQyto0RT-heb) 
+Part Ⅱ introduces the most basic network and architecture of medical registration algorithms **(Chinese Version)**.
 
 # 2. Tutorials & Workshops
 
 ## 2.1 Tutorials
 
 [ **Learn2Reg**](https://github.com/learn2reg/tutorials2019)     MICCAI2019
+Big thanks to [Yipeng Hu]( https://github.com/YipengHu ) organizing the excellent tutorial.
 
 [ **Autograd Image Registration Laboratory**](https://github.com/airlab-unibas)    MICCAI2019
 
@@ -90,7 +90,7 @@ WBIR2014, London, UK
 
 [3]    G. Haskins, U. Kruger, and P. Yan, “Deep Learning in Medical Image Registration: A Survey,” 2019.
 
-[4]    M. Blendowski and M. P. Heinrich, “Combining MRF-based deformable registration and deep binary 3D-CNN descriptors for large lung motion estimation in COPD patients,” *Int. J. Comput. Assist. Radiol. Surg.*, vol. 14, no. 1, pp. 43–52, 2019.
+[4]    N. Tustison, et.al., [“Learning image-based spatial transformations via convolutional neural networks: A review,”]( https://www.sciencedirect.com/science/article/abs/pii/S0730725X19300037 )2019.
 
 ## 5.2 Traditional medical image registration methods
 
@@ -262,42 +262,48 @@ WBIR2014, London, UK
 
 **① Biomedical image:**
 
-**MICCAI**, International Conference on Medical Image Computing and Computer Assisted Intervention
+[**MICCAI**]( http://www.miccai.org/ ): International Conference on Medical Image Computing and Computer Assisted Intervention
 
-**IPMI**, Information Processing in Medical Imaging
+[**IPMI**](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=77376): Information Processing in Medical Imaging
 
-**ISBI**，International Symposium on Biomedical Imaging 
+[**ISBI**]( http://2020.biomedicalimaging.org/): International Symposium on Biomedical Imaging 
 
-Medical Imaging **SPIE**
+[**Medical Imaging SPIE**](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1 )
+
 
  **② C.v. c.s Conferences:**
 
-CVPR
+[**CVPR**](http://cvpr2020.thecvf.com/): IEEE International Conference on Computer Vision and Pattern Recognition
 
-ECCV
+[**ICCV**](http://iccv2019.thecvf.com/): IEEE International Conference on Computer Vision
 
-ICCV
+[**ECCV**](https://eccv2020.eu/): European Conference on Computer Vision
 
-NeurIPS
+[**NeurIPS**]( https://nips.cc/): Conference on Neural Information Processing Systems
 
-AAAI
+[**AAAI**]( http://www.aaai.org/ ): Association for the Advancement of Artificial Intelligence
 
-ICML
+[**ICML**]( https://icml.cc/): International Conference on Machine Learning
 
-ICPR
+[**ICPR**]( https://www.icpr2020.it/): International Conference on Pattern Recognition
 
-IJCNN
+[**IJCNN**]( https://www.ijcnn.org/): International Joint Conference on Neural Networks
 
-ICIP
+[**ICIP**](http://2019.ieeeicip.org/):  IEEE International Conference on Image Processing 
 
-IJCAI
+[**IJCAI**](https://www.ijcnn.org/): International Joint Conferences on Artificial Intelligence
+
+[**WACV**](https://wacv20.wacv.net/): Winter Conference on Applications of Computer Vision
 
 ## 6.2 Journals
 
-[**TMI**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) : IEEE Transactions on Medical Imaging
+[**MIA**](https://www.journals.elsevier.com/medical-image-analysis/): Medical Image Analysis
 
- [**MIA**](https://www.journals.elsevier.com/medical-image-analysis/): Medical Image Analysis
+[**TIP**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83): IEEE Transactions on Image Processing
 
- [**TIP**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83): IEEE Transactions on Image Processing
+[**TBME**](https://tbme.embs.org/): IEEE Transactions on Biomedical Engineering
 
-[**TBME**](https://tbme.embs.org/) : IEEE Transactions on Biomedical Engineering 
+
+
+
+
