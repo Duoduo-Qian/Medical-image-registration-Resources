@@ -3,7 +3,7 @@ Medical image registration related books, tutorials, papers, datasets, toolboxes
 
 # 1. Books
 
-Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm. 医学图像分割与配准(ITK实现分册)**](https://vdisk.weibo.com/s/FQyto0RT-heb) 
+Zhenhuan Zhou, et.al: [ **A software guide for medical image segmentation and registration algorithm. 医学图像分割与配准(ITK实现分册)**](https://github.com/Duoduo-Qian/Medical-image-registration-Resources/tree/master/ITKbooks) 
 Part Ⅱ introduces the most basic network and architecture of medical registration algorithms **(Chinese Version)**.
 
 # 2. Tutorials & Workshops
